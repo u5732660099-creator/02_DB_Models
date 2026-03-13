@@ -2,6 +2,8 @@
 
 # Vorbereitung
 
+SET NAMES utf8mb4;
+
 DROP TABLE IF EXISTS design.kittens;
 DROP TABLE IF EXISTS design.catmoms;
 
